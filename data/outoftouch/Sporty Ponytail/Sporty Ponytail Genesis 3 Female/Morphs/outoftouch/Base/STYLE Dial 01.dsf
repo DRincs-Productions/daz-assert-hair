@@ -1,0 +1,100 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/STYLE%20Dial%2001.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "STYLE Dial 01",
+			"name" : "STYLE Dial 01",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "STYLE Dial 01",
+				"label" : "STYLE Dial 01",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/STYLE Dials",
+			"formulas" : [
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Volume-Top2.dsf#Volume-Top2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%2001?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Volume-Top1.dsf#Volume-Top1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.3333334 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Volume-Front1.dsf#Volume-Front1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.8333334 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/TailBase-Out.dsf#TailBase-Out?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%2001?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Top-Messy.dsf#Top-Messy?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%2001?value" },
+						{ "op" : "push", "val" : -1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/TailBase-Height.dsf#TailBase-Height?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%2001?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "STYLE Dial 01-1",
+				"url" : "#STYLE%20Dial%2001"
+			}
+		]
+	}
+}

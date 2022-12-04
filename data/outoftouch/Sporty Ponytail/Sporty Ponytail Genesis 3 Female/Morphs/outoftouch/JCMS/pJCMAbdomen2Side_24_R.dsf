@@ -1,0 +1,59 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/JCMS/pJCMAbdomen2Side_24_R.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "pJCMAbdomen2Side_24_R",
+			"name" : "pJCMAbdomen2Side_24_R",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Corrective",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 0.4980392, 0, 0 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "pJCMAbdomen2Side_24_R",
+				"visible" : false,
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"group" : "/Hidden/Correctives/Base",
+			"morph" : {
+				"vertex_count" : 17418,
+				"deltas" : {
+					"count" : 0,
+					"values" : [
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "pJCMAbdomen2Side_24_R-1",
+				"url" : "#pJCMAbdomen2Side_24_R"
+			}
+		]
+	}
+}

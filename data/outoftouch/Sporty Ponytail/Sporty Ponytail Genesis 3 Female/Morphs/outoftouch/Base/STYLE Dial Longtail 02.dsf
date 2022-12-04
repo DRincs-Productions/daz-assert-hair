@@ -1,0 +1,68 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/STYLE%20Dial%20Longtail%2002.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "STYLE Dial Longtail 02",
+			"name" : "STYLE Dial Longtail 02",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "STYLE Dial Longtail 02",
+				"label" : "STYLE Dial Longtail 02",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/STYLE Dials",
+			"formulas" : [
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/LongTail-Volume.dsf#LongTail-Volume?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%20Longtail%2002?value" },
+						{ "op" : "push", "val" : 0.3971292 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/LongTail-Size.dsf#LongTail-Size?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#STYLE%20Dial%20Longtail%2002?value" },
+						{ "op" : "push", "val" : 0.8086125 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "STYLE Dial Longtail 02-1",
+				"url" : "#STYLE%20Dial%20Longtail%2002"
+			}
+		]
+	}
+}

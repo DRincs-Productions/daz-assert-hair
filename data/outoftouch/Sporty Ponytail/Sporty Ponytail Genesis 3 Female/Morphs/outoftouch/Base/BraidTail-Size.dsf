@@ -1,0 +1,132 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/BraidTail-Size.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BraidTail-Size",
+			"name" : "BraidTail-Size",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BraidTail-Size",
+				"label" : "BraidTail-Size",
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Styling",
+			"formulas" : [
+				{
+					"output" : "TailBraid:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraid?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : 0.3520365 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraid:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraid?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : 1.338981 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraid:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraid?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.1709303 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraid:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraid?scale/x",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.2005086 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraid:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraid?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.2665967 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraid:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraid?scale/z",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.02363932 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraidSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraidSwing?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : 2.147088 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraidSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraidSwing?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.284192 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraidSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraidSwing?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.1778719 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailBraidSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailBraidSwing?scale/z",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BraidTail-Size?value" },
+						{ "op" : "push", "val" : -0.04674351 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BraidTail-Size-1",
+				"url" : "#BraidTail-Size"
+			}
+		]
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/OOT%20Sporty%20Ponytail/Presets/Sporty%20Ponytail%20%21%21RESET%20Style.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-20T06:40:32Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#STYLE%20Dial%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2003:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2004:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Braid%20Tail%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Braid%20Tail%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2003:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2004:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2005:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2006:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BraidTail-Length:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BraidTail-Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#HIDE-LooseStrandsFront:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#HIDE-LooseStrandsSide:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#HIDE-LooseStrandsSideTop:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Length:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Messy:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Straight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Volume:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#TailBase-Height:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#TailBase-Out:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#TailBase-Volume:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#Top-Messy:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume-Front1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume-Top1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume-Top2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

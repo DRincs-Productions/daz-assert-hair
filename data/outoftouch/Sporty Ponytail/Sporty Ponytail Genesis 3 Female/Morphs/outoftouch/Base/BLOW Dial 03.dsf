@@ -1,0 +1,68 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/BLOW%20Dial%2003.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW Dial 03",
+			"name" : "BLOW Dial 03",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BLOW Dial 03",
+				"label" : "BLOW Dial 03",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "TailLong:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLong?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2003?value" },
+						{ "op" : "push", "val" : 180 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailLongSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLongSwing?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2003?value" },
+						{ "op" : "push", "val" : -78.07229 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW Dial 03-1",
+				"url" : "#BLOW%20Dial%2003"
+			}
+		]
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/BLOW%20Dial%2001.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW Dial 01",
+			"name" : "BLOW Dial 01",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BLOW Dial 01",
+				"label" : "BLOW Dial 01",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "TailLong:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLong?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : -54.60674 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailLongSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLongSwing?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : -30.33708 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-R2.dsf#Turbulence-R2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.5700001 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-R1.dsf#Turbulence-R1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : -0.04166669 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-L2.dsf#Turbulence-L2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : -0.11 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-L1.dsf#Turbulence-L1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.125 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-Front2.dsf#Turbulence-Front2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.53 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-Back1.dsf#Turbulence-Back1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.49 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW Dial 01-1",
+				"url" : "#BLOW%20Dial%2001"
+			}
+		]
+	}
+}

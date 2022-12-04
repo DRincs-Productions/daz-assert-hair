@@ -1,0 +1,28 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/OOT%20Sporty%20Ponytail/Presets/Sporty%20Ponytail%20%21Braid%20Ponytail.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-17T05:36:36Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection/TailLong:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			}
+		]
+	}
+}

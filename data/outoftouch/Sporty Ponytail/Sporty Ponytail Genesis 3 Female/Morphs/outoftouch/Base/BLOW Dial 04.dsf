@@ -1,0 +1,108 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/BLOW%20Dial%2004.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-25T09:01:50Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW Dial 04",
+			"name" : "BLOW Dial 04",
+			"parent" : "/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#SportyPonytail_180735",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BLOW Dial 04",
+				"label" : "BLOW Dial 04",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "TailLong:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLong?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : 112.7711 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailLongSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLongSwing?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : 13.01204 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailLongSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLongSwing?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : -34.69879 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "TailLongSwing:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/SportyPonytail_180735.dsf#TailLongSwing?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : 39.03613 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-R1.dsf#Turbulence-R1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : 0.6746988 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-Front2.dsf#Turbulence-Front2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : 0.5662651 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "SportyPonytail_180735:/data/outoftouch/Sporty%20Ponytail/Sporty%20Ponytail%20Genesis%203%20Female/Morphs/outoftouch/Base/Turbulence-Back2.dsf#Turbulence-Back2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "SportyPonytail_180735:#BLOW%20Dial%2004?value" },
+						{ "op" : "push", "val" : 0.6506025 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW Dial 04-1",
+				"url" : "#BLOW%20Dial%2004"
+			}
+		]
+	}
+}

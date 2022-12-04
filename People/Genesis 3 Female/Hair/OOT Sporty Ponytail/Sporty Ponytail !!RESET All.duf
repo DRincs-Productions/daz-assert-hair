@@ -1,0 +1,512 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/OOT%20Sporty%20Ponytail/Presets/Sporty%20Ponytail%20RESET%20All.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-20T06:39:24Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection/TailLongSwing:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLongSwing:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailLong:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraidSwing:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/TailBraid:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadLowerX:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadLowerZ:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadMid:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadTilt:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadX:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadY:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-BackHeadZ:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-CheekL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-CheekR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-EarSizeL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-EarSizeR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-EarsZ:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-ForeheadDepth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-ForeheadWidth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-FrontEarL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-FrontEarR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadHeight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadSize1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadSize2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadSizeX:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadSizeY:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-HeadSizeZ:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-Neck:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckFront:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckLowerL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckLowerR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckUpperL:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckUpperR:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckX:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-NeckZ:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-Temples:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-TopHeadX:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-TopHeadY:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Adjust-TopHeadZ:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2003:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2004:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2005:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2006:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2007:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2008:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2009:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW%20Dial%2010:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2003:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%2004:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Braid%20Tail%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Braid%20Tail%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2003:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2004:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2005:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2006:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BraidTail-Length:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BraidTail-Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#HIDE-LooseStrandsFront:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#HIDE-LooseStrandsSide:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#HIDE-LooseStrandsSideTop:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Length:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Messy:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Straight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LongTail-Volume:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#TailBase-Height:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#TailBase-Out:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#TailBase-Volume:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Top-Messy:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume-Front1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume-Top1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume-Top2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-Back1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-Back2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-Front1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-Front2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-L1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-L2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-R1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Turbulence-R2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

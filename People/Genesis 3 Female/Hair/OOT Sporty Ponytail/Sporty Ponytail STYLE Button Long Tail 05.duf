@@ -1,0 +1,42 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/OOT%20Sporty%20Ponytail/Presets/Sporty%20Ponytail%20STYLE%20Button%2001.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-09-20T06:35:11Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2001:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2002:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2003:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2004:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2005:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#STYLE%20Dial%20Longtail%2006:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
