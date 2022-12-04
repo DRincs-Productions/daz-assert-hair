@@ -1,0 +1,59 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Movement/All%20Crown%20Size.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-14T11:40:35Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "All Crown Size",
+			"name" : "All Crown Size",
+			"parent" : "/data/AprilYSH/DieselGenesis/DieselHairG3M/aprilyshDieselHairG3M_95933.dsf#aprilyshDieselHairG3M_95933",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "All Crown Size",
+				"label" : "All Crown Size",
+				"value" : 0,
+				"min" : -1,
+				"max" : 2,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Movement",
+			"formulas" : [
+				{
+					"output" : "aprilyshDieselHairG3M_95933:/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Base/Adjust%20Crown%20Size.dsf#Adjust%20Crown%20Size?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshDieselHairG3M_95933:#All%20Crown%20Size?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "All Crown Size-1",
+				"url" : "#All%20Crown%20Size"
+			}
+		]
+	}
+}

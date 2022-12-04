@@ -1,0 +1,75 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Movement/All%20Spread.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "0.0",
+		"modified" : "2016-10-18T08:50:00Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "All Spread",
+			"name" : "All Spread",
+			"parent" : "/data/AprilYSH/DieselGenesis/DieselHairG3M/aprilyshDieselHairG3M_95933.dsf#aprilyshDieselHairG3M_95933",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "All Spread",
+				"label" : "All Spread",
+				"value" : 0,
+				"min" : -0.5,
+				"max" : 1.5,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Movement",
+			"formulas" : [
+				{
+					"output" : "aprilyshDieselHairG3M_95933:/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Movement/Right%20Out.dsf#Right%20Out?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshDieselHairG3M_95933:#All%20Spread?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "aprilyshDieselHairG3M_95933:/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Movement/Left%20Out.dsf#Left%20Out?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshDieselHairG3M_95933:#All%20Spread?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "aprilyshDieselHairG3M_95933:/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Movement/Back%20Spread.dsf#Back%20Spread?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshDieselHairG3M_95933:#All%20Spread?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "All Spread-1",
+				"url" : "#All%20Spread"
+			}
+		]
+	}
+}

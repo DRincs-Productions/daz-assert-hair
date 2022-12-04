@@ -1,0 +1,59 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Movement/All%20Hairline%20Height.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-14T11:40:35Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "All Hairline Height",
+			"name" : "All Hairline Height",
+			"parent" : "/data/AprilYSH/DieselGenesis/DieselHairG3M/aprilyshDieselHairG3M_95933.dsf#aprilyshDieselHairG3M_95933",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "All Hairline Height",
+				"label" : "All Hairline Height",
+				"value" : 0,
+				"min" : -1,
+				"max" : 2,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Movement",
+			"formulas" : [
+				{
+					"output" : "aprilyshDieselHairG3M_95933:/data/AprilYSH/DieselGenesis/DieselHairG3M/Morphs/AprilYSH/Base/Adjust%20Hairline%20Height.dsf#Adjust%20Hairline%20Height?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshDieselHairG3M_95933:#All%20Hairline%20Height?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "All Hairline Height-1",
+				"url" : "#All%20Hairline%20Height"
+			}
+		]
+	}
+}
