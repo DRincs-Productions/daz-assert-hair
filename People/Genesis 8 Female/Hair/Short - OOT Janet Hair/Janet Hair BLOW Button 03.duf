@@ -1,0 +1,42 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/OOT%20Liv%20Hair/Presets/Liv%20Hair%20%21RESET%20BLOW%20Buttons.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2017-05-08T15:33:16Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#BLOW-Dial01:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW-Dial02:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW-Dial03:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW-Dial04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW-Dial05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#BLOW-Dial06:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

@@ -1,0 +1,404 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/BLOW-Dial01.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2019-04-16T07:37:47Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW-Dial01",
+			"name" : "BLOW-Dial01",
+			"parent" : "/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#JanetHair_237467",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BLOW-Dial01",
+				"label" : "BLOW-Dial01",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "lSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide01?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 1.688923 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide01?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 3.763209 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide01?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 4.140439 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide01?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 57.21854 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide02?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 56.02649 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide03:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide03?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 28.47682 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide04:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide04?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 28.47682 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide05?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -3.68964 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide05?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 1.623531 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide05?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 66.75497 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide06:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide06?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 44.10597 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide07:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide07?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 28.47682 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide08:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lSide08?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 17.08609 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lBack03:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lBack03?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 11.39073 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lBack04:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#lBack04?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 16.68875 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 3.194038 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 9.06002 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 5.763943 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 26.22516 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 102.5166 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 16.68875 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.008608818 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?scale/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.02561194 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.09444702 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide01:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide01?scale/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.07711774 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 1.988748 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -5.960266 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 75.09933 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 35.7616 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?scale/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.255062 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.146975 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide02?scale/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.1311065 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide03:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide03?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 2.533384 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide03:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide03?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 1.242132 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide03:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide03?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -17.8808 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide03:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide03?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 32.18544 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide04:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide04?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -20.26491 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide04:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide04?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 52.45033 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide04:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide04?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 23.84106 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rSide08:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rSide08?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : -0.7792932 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "JanetHair_237467:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/Split-R.dsf#Split-R?value",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 0.2516556 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "JanetHair_237467:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/Split-R-Front.dsf#Split-R-Front?value",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 0.3907285 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "JanetHair_237467:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/Split-L.dsf#Split-L?value",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 0.2251655 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "JanetHair_237467:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/Split-L-Front.dsf#Split-L-Front?value",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#BLOW-Dial01?value" },
+						{ "op" : "push", "val" : 0.1655629 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW-Dial01-1",
+				"url" : "#BLOW-Dial01"
+			}
+		]
+	}
+}

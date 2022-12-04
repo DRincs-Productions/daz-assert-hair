@@ -1,0 +1,60 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/rBack02-Twist.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2019-04-16T07:37:47Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "rBack02-Twist",
+			"name" : "rBack02-Twist",
+			"parent" : "/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#JanetHair_237467",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "rBack02-Twist",
+				"label" : "rBack02-Twist",
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Movement/Right Back",
+			"formulas" : [
+				{
+					"output" : "rBack02:/data/outoftouch/Janet%20Hair/Janet%20Hair%20Genesis%208%20Female/JanetHair_237467.dsf#rBack02?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "JanetHair_237467:#rBack02-Twist?value" },
+						{ "op" : "push", "val" : 75 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "rBack02-Twist-1",
+				"url" : "#rBack02-Twist"
+			}
+		]
+	}
+}
