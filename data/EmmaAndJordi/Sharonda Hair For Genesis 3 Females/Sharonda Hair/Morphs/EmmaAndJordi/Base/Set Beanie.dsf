@@ -1,0 +1,67 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/Morphs/EmmaAndJordi/Base/Set%20Beanie.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "EmmaAndJordi",
+			"email" : "",
+			"website" : "www.emmaalvarez.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-26T22:02:53Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Set Beanie",
+			"name" : "Set Beanie",
+			"parent" : "/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/emandjosharondahair_67154.dsf#emandjosharondahair_67154",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 1, 0.8941176, 0.3529412 ], [ 0.03529412, 0.4901961, 0.7843137 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "bool",
+				"name" : "Set Beanie",
+				"label" : "Set Beanie",
+				"value" : true
+			},
+			"region" : "Actor",
+			"group" : "/MORPHS/Style",
+			"formulas" : [
+				{
+					"output" : "emandjosharondahair_67154:/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/Morphs/EmmaAndJordi/Base/WithoutBeanie.dsf#WithoutBeanie?value",
+					"operations" : [
+						{ "op" : "push", "url" : "emandjosharondahair_67154:#Set%20Beanie?value" },
+						{ "op" : "push", "val" : [ 0, 1, 0, 0, 0 ] },
+						{ "op" : "push", "val" : [ 1, 0, 0, 0, 0 ] },
+						{ "op" : "push", "val" : 2 },
+						{ "op" : "spline_tcb" }
+					]
+				},
+				{
+					"output" : "emandjosharondahair_67154:/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/Morphs/EmmaAndJordi/Base/WithBeanie.dsf#With%20Beanie?value",
+					"operations" : [
+						{ "op" : "push", "url" : "emandjosharondahair_67154:#Set%20Beanie?value" },
+						{ "op" : "push", "val" : [ 0, 0, 0, 0, 0 ] },
+						{ "op" : "push", "val" : [ 1, 1, 0, 0, 0 ] },
+						{ "op" : "push", "val" : 2 },
+						{ "op" : "spline_tcb" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Set Beanie-1",
+				"url" : "#Set%20Beanie"
+			}
+		]
+	}
+}

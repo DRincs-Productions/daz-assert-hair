@@ -1,0 +1,58 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/Morphs/EmmaAndJordi/Base/pJCMShldrDown_75_R.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "EmmaAndJordi",
+			"email" : "",
+			"website" : "www.emmaalvarez.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-25T19:15:54Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "pJCMShldrDown_75_R",
+			"name" : "pJCMShldrDown_75_R",
+			"parent" : "/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/emandjosharondahair_67154.dsf#emandjosharondahair_67154",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 1, 0.5019608, 0 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "pJCMShldrDown_75_R",
+				"visible" : false,
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"group" : "/Hidden/Correctives/Base",
+			"morph" : {
+				"vertex_count" : -1,
+				"deltas" : {
+					"count" : 0,
+					"values" : [
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "pJCMShldrDown_75_R-1",
+				"url" : "#pJCMShldrDown_75_R"
+			}
+		]
+	}
+}

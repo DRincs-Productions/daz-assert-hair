@@ -1,0 +1,15 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "",
+		"type" : "",
+		"contributor" : {
+			"author" : "EmmaAndJordi",
+			"email" : "info@emmaalvarez.com",
+			"website" : "www.emmaalvarez.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2014-01-24T21:27:01Z"
+	},
+	"scene" : { "animations" : [ ] }
+}

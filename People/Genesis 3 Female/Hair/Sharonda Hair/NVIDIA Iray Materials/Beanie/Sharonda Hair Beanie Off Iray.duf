@@ -1,0 +1,23 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/EmmaAndJordi/Sharonda%20Hair/NVIDIA%20Iray%20Materials/Beanie/Beanie%20Off.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "EmmaAndJordi",
+			"email" : "",
+			"website" : "www.emmaalvarez.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-29T19:03:58Z"
+	},
+	"scene" : {
+		"materials" : [ ],
+		"animations" : [
+			{
+				"url" : "name://@selection#Set%20Beanie:?value/value",
+				"keys" : [ [ 0, false ] ]
+			}
+		]
+	}
+}

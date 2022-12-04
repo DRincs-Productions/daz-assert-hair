@@ -1,0 +1,93 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/Morphs/EmmaAndJordi/Base/MCMJawSizeNegative.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "EmmaAndJordi",
+			"email" : "",
+			"website" : "www.emmaalvarez.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-26T17:48:30Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "MCMJawSizeNegative",
+			"name" : "MCMJawSizeNegative",
+			"parent" : "/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/emandjosharondahair_67154.dsf#emandjosharondahair",
+			"presentation" : {
+				"type" : "Modifier/Corrective",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.8078431, 0.9294118, 1 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "MCMJawSizeNegative",
+				"visible" : false,
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"group" : "/Hidden/MCMs",
+			"formulas" : [
+				{
+					"output" : "emandjosharondahair_67154:#MCMJawSizeNegative?value",
+					"operations" : [
+						{ "op" : "push", "url" : "emandjosharondahair_67154:/data/EmmaAndJordi/Sharonda%20Hair%20For%20Genesis%203%20Females/Sharonda%20Hair/Morphs/EmmaAndJordi/Base/PHMJawSize.dsf#PHMJawSize?value" },
+						{ "op" : "push", "val" : -2 },
+						{ "op" : "mult" }
+					]
+				}
+			],
+			"morph" : {
+				"vertex_count" : 67154,
+				"deltas" : {
+					"count" : 24,
+					"values" : [
+						[ 82, -0.03617001, -0.00692749, -0.01771294 ],
+						[ 93, -0.03443861, -0.006591797, -0.01686621 ],
+						[ 195, 0.03442907, -0.006622314, -0.01686203 ],
+						[ 197, 0.0361867, -0.006912231, -0.0177204 ],
+						[ 219, -0.0175252, -0.003387451, -0.00858295 ],
+						[ 253, 0.01751995, -0.003356934, -0.008580804 ],
+						[ 322, -0.006587505, -0.001251221, -0.003225923 ],
+						[ 565, 0.006593704, -0.001266479, -0.003228426 ],
+						[ 604, -0.04559803, -0.008682251, -0.0223313 ],
+						[ 605, -0.02530336, -0.004852295, -0.01239159 ],
+						[ 623, -0.01222658, -0.002304077, -0.005988598 ],
+						[ 624, -0.008664608, -0.001647949, -0.004243255 ],
+						[ 625, -0.03491259, -0.006729126, -0.01709753 ],
+						[ 828, 0.01221848, -0.002304077, -0.005983829 ],
+						[ 829, 0.0455966, -0.008712769, -0.02233058 ],
+						[ 830, 0.0349021, -0.006652832, -0.01709265 ],
+						[ 831, 0.008638382, -0.001678467, -0.004230499 ],
+						[ 832, 0.02532911, -0.004898071, -0.01240338 ],
+						[ 937, -0.02206755, -0.004211426, -0.01080763 ],
+						[ 939, -0.002696514, -0.0005340576, -0.001320615 ],
+						[ 940, -0.03988361, -0.007614136, -0.01953375 ],
+						[ 1066, 0.02205706, -0.004226685, -0.01080275 ],
+						[ 1067, 0.03986692, -0.007629395, -0.01952356 ],
+						[ 1068, 0.002699375, -0.0004882812, -0.001321241 ]
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "MCMJawSizeNegative-1",
+				"url" : "#MCMJawSizeNegative"
+			}
+		]
+	}
+}

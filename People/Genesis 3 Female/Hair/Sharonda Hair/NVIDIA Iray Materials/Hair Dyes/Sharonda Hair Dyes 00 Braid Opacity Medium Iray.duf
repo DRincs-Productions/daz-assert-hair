@@ -1,0 +1,64 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/EmmaAndJordi/Sharonda%20Hair/NVIDIA%20Iray%20Materials/Hair%20Dyes/00%20Braid%20Opacity%20Medium.duf",
+		"type" : "preset_material",
+		"contributor" : {
+			"author" : "EmmaAndJordi",
+			"email" : "",
+			"website" : "www.emmaalvarez.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2016-10-29T18:57:09Z"
+	},
+	"material_library" : [
+		{
+			"id" : "Braids",
+			"extra" : [
+				{ "type" : "studio/material/uber_iray", "version" : "1.1.0.0" },
+				{
+					"type" : "studio_material_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Cutout Opacity",
+								"type" : "float",
+								"label" : "Cutout Opacity",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 1,
+								"default_image_gamma" : 1,
+								"mappable" : true
+							},
+							"group" : "/Geometry/Cutout",
+							"presentation" : {
+								"type" : "",
+								"label" : "",
+								"description" : "",
+								"icon_large" : "",
+								"colors" : [ [ 0.5019608, 0.5019608, 0.5019608 ], [ 0.5019608, 0.5019608, 0.5019608 ] ]
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"materials" : [
+			{
+				"url" : "#Braids",
+				"groups" : [ "Braids" ],
+				"extra" : [ { "type" : "studio/material/uber_iray", "version" : "1.1.0.0" } ]
+			}
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#materials/Braids:?extra/studio_material_channels/channels/Cutout%20Opacity/value",
+				"keys" : [ [ 0, 0.87 ] ]
+			}
+		]
+	}
+}
