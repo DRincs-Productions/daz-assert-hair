@@ -1,0 +1,188 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/BLOW%20Dial%2005.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-08-01T07:18:55Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW Dial 05",
+			"name" : "BLOW Dial 05",
+			"parent" : "/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#EverydayUpdo_151676",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BLOW Dial 05",
+				"label" : "BLOW Dial 05",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "lBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#lBangs?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : -41.22905 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#lBangs?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : -47.26257 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#lBangs?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : -27.15085 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#rBangs?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 93.51956 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#rBangs?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : -81.45252 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunTopToR.dsf#Wind-BunTopToR?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsToFrontL.dsf#Wind-BunEndsToFrontL?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.3854748 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsToBackL.dsf#Wind-BunEndsToBackL?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.8324022 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsL2.dsf#Turbulence-BangsL2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.4189944 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsR1.dsf#Turbulence-BangsR1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsR2.dsf#Turbulence-BangsR2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.273743 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsLToFront.dsf#Wind-BunEndsLToFront?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.3743017 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsToR1.dsf#Wind-BunEndsToR1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsToR2.dsf#Wind-BunEndsToR2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.4301676 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/MOVE-BackUp.dsf#MOVE-BackUp?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.2960894 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/MOVE-BackToR.dsf#MOVE-BackToR?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/MOVE-BackOut.dsf#MOVE-BackOut?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2005?value" },
+						{ "op" : "push", "val" : 0.3072625 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW Dial 05-1",
+				"url" : "#BLOW%20Dial%2005"
+			}
+		]
+	}
+}

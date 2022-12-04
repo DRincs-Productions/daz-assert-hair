@@ -1,0 +1,164 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/BLOW%20Dial%2001.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-08-01T07:18:55Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW Dial 01",
+			"name" : "BLOW Dial 01",
+			"parent" : "/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#EverydayUpdo_151676",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "BLOW Dial 01",
+				"label" : "BLOW Dial 01",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "lBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#lBangs?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : -15.37689 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#lBangs?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 37.08542 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#rBangs?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : -38.89447 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#rBangs?rotation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 47.9397 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "rBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#rBangs?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 33.46733 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunTopToL.dsf#Wind-BunTopToL?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsToBackL.dsf#Wind-BunEndsToBackL?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.4375 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsL2.dsf#Turbulence-BangsL2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.08333337 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsR1.dsf#Turbulence-BangsR1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.04166663 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsR2.dsf#Turbulence-BangsR2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.4583334 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Turbulence-BangsL1.dsf#Turbulence-BangsL1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.0625 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Wind-BunEndsToL2.dsf#Wind-BunEndsToL2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/MOVE-BackUp.dsf#MOVE-BackUp?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.3125 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/MOVE-BackToL.dsf#MOVE-BackToL?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#BLOW%20Dial%2001?value" },
+						{ "op" : "push", "val" : 0.5625 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW Dial 01-1",
+				"url" : "#BLOW%20Dial%2001"
+			}
+		]
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/STYLE%20Dial%2003.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-08-01T07:18:55Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "STYLE Dial 03",
+			"name" : "STYLE Dial 03",
+			"parent" : "/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#EverydayUpdo_151676",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "STYLE Dial 03",
+				"label" : "STYLE Dial 03",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/STYLE Dials",
+			"formulas" : [
+				{
+					"output" : "rBangs:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/EverydayUpdo_151676.dsf#rBangs?orientation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 3.083901 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Bun-SizeZ.dsf#Bun-SizeZ?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 0.0963856 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Bun-SizeY.dsf#Bun-SizeY?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 0.2409638 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Bun-Height1.dsf#Bun-Height1?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 0.5180722 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/BunEnds-Longer.dsf#BunEnds-Longer?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 0.4578314 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Bun-MoveDown.dsf#Bun-MoveDown?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Bun-Height2.dsf#Bun-Height2?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 0.1566265 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "EverydayUpdo_151676:/data/outoftouch/Everyday%20Updo%20Hair/Everyday%20Updo%20Hair/Morphs/outoftouch/Base/Bun-Big.dsf#Bun-Big?value",
+					"operations" : [
+						{ "op" : "push", "url" : "EverydayUpdo_151676:#STYLE%20Dial%2003?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "STYLE Dial 03-1",
+				"url" : "#STYLE%20Dial%2003"
+			}
+		]
+	}
+}

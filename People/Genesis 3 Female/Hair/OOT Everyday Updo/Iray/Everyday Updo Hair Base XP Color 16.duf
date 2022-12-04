@@ -1,0 +1,154 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%203%20Female/Hair/OOT%20EverydayUpdo%20Hair/MATS/Hairblending/EverydayUpdo%20Hair%20Base%20Color%2001.duf",
+		"type" : "preset_material",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-07-15T08:30:10Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#materials/Cap:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoCap.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Cap:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoCap.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Back:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Back:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Back:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Back:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/BackUnder:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/BackUnder:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/BackUnder:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/BackUnder:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs1:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs1:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs1:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs1:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs2:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs2:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs2:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Bangs2:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front1:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front1:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front1:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front1:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front2:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front2:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front2:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Front2:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side1:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side1:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side1:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side1:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side2:?diffuse/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side2:?extra/studio_material_channels/channels/Translucency%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHair.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side2:?extra/studio_material_channels/channels/Glossy%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairS.jpg" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Side2:?extra/studio_material_channels/channels/Top%20Coat%20Color/image_file",
+				"keys" : [ [ 0, "/Runtime/Textures/outoftouch/%21hair/OOTHairblending2/EverydayUpdoXP/16OOTXPEverydayUpdoHairST.jpg" ] ]
+			}
+		]
+	}
+}
