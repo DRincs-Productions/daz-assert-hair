@@ -1,0 +1,819 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/Length.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:05:27Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Length",
+			"name" : "Length",
+			"parent" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#aprilyshElliseaHair_156889",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Length",
+				"label" : "Length",
+				"value" : 0,
+				"min" : -0.5,
+				"max" : 1.5,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Move/All",
+			"formulas" : [
+				{
+					"output" : "Fringe1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe1?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : -10 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe1?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe1?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe2?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : -10 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe2?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe2?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe3?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Fringe3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Fringe3?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right1?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right1?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right2?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right2?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right3?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right3?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Left1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Left1?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Left1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Left1?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Left2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Left2?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Left2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Left2?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Left3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Left3?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Left3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Left3?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "BackRight:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#BackRight?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "BackRight:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#BackRight?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "BackLeft:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#BackLeft?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "BackLeft:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#BackLeft?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong1f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong1f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong2f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong2f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong1f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong1f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong3f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong3f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Length-1",
+				"url" : "#Length"
+			}
+		]
+	}
+}

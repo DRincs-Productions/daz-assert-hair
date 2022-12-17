@@ -1,0 +1,30 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Hair/Ellisea%20Hair/Styles%20and%20Poses/Ellisea%2052%20Volume%202.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-03T05:20:50Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#Volume:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Volume3:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}

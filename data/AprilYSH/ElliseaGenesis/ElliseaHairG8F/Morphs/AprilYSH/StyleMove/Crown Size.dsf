@@ -1,0 +1,59 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/Crown%20Size.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:05:27Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Crown Size",
+			"name" : "Crown Size",
+			"parent" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#aprilyshElliseaHair_156889",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Crown Size",
+				"label" : "Crown Size",
+				"value" : 0,
+				"min" : 0,
+				"max" : 2,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Move/All",
+			"formulas" : [
+				{
+					"output" : "aprilyshElliseaHair_156889:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/FitAdjust/Adjust%20Crown%20Size.dsf#Adjust%20Crown%20Size?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Crown%20Size?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Crown Size-1",
+				"url" : "#Crown%20Size"
+			}
+		]
+	}
+}

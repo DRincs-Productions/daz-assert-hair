@@ -1,0 +1,75 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/Right%20Side-Side.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:05:27Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Right Side-Side",
+			"name" : "Right Side-Side",
+			"parent" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#aprilyshElliseaHair_156889",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Right Side-Side",
+				"label" : "Right Side-Side",
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Move/Right",
+			"formulas" : [
+				{
+					"output" : "Right1:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right1?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Right%20Side-Side?value" },
+						{ "op" : "push", "val" : 120 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right2?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Right%20Side-Side?value" },
+						{ "op" : "push", "val" : 120 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Right3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#Right3?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#Right%20Side-Side?value" },
+						{ "op" : "push", "val" : 120 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Right Side-Side-1",
+				"url" : "#Right%20Side-Side"
+			}
+		]
+	}
+}

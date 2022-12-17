@@ -1,0 +1,56 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Hair/Ellisea%20Hair/Styles%20and%20Poses/Ellisea%2050%20Fringe%20On.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-01T14:32:43Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection/Fringe1:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe1:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe1:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe2:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe2:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe2:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe3:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe3:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection/Fringe3:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, true ] ]
+			}
+		]
+	}
+}

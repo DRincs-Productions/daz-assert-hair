@@ -1,0 +1,147 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/RightLong3%20Length.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:05:27Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "RightLong3 Length",
+			"name" : "RightLong3 Length",
+			"parent" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#aprilyshElliseaHair_156889",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "RightLong3 Length",
+				"label" : "RightLong3 Length",
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Move/RightLong/RightLong3",
+			"formulas" : [
+				{
+					"output" : "RightLong3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3b?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3b?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3c?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3c?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3d?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3d?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3e?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3e?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3f?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "RightLong3f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#RightLong3f?scale/y",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong3%20Length?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "RightLong3 Length-1",
+				"url" : "#RightLong3%20Length"
+			}
+		]
+	}
+}

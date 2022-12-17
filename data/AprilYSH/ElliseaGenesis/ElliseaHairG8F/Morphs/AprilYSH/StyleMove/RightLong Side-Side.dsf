@@ -1,0 +1,75 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/RightLong%20Side-Side.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:05:27Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "RightLong Side-Side",
+			"name" : "RightLong Side-Side",
+			"parent" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#aprilyshElliseaHair_156889",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.4, 0.4, 0.4 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "RightLong Side-Side",
+				"label" : "Right Long Side-Side",
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Move/RightLong",
+			"formulas" : [
+				{
+					"output" : "aprilyshElliseaHair_156889:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/RightLong3%20Side-Side.dsf#RightLong3%20Side-Side?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong%20Side-Side?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "aprilyshElliseaHair_156889:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/RightLong2%20Side-Side.dsf#RightLong2%20Side-Side?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong%20Side-Side?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "aprilyshElliseaHair_156889:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/RightLong1%20Side-Side.dsf#RightLong1%20Side-Side?value",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#RightLong%20Side-Side?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "RightLong Side-Side-1",
+				"url" : "#RightLong%20Side-Side"
+			}
+		]
+	}
+}

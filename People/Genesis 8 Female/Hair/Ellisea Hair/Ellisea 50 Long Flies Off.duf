@@ -1,0 +1,452 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Hair/Ellisea%20Hair/Styles%20and%20Poses/Ellisea%2050%20Long%20Flies%20Off.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:16:05Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection/RightLong1f:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1f:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1f:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1e:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1e:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1e:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1d:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1d:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1d:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1c:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1c:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1c:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1b:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1b:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1b:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong1:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2f:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2f:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2f:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2e:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2e:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2e:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2d:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2d:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2d:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2c:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2c:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2c:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2b:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2b:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2b:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong2:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3f:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3f:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3f:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3e:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3e:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3e:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3d:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3d:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3d:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3c:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3c:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3c:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3b:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3b:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3b:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/RightLong3:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1f:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1f:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1f:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1e:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1e:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1e:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1d:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1d:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1d:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1c:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1c:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1c:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1b:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1b:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1b:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong1:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2f:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2f:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2f:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2e:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2e:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2e:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2d:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2d:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2d:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2c:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2c:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2c:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2b:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2b:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2b:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong2:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3f:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3f:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3f:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3e:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3e:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3e:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3d:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3d:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3d:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3c:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3c:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3c:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3b:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3b:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3b:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection/LeftLong3:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, false ] ]
+			}
+		]
+	}
+}

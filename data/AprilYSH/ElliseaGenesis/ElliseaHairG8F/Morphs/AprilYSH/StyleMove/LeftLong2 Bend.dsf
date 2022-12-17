@@ -1,0 +1,99 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/Morphs/AprilYSH/StyleMove/LeftLong2%20Bend.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "AprilYSH",
+			"email" : "",
+			"website" : "http://aprilsvanity.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2018-07-04T05:05:27Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "LeftLong2 Bend",
+			"name" : "LeftLong2 Bend",
+			"parent" : "/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#aprilyshElliseaHair_156889",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "LeftLong2 Bend",
+				"label" : "LeftLong2 Bend",
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Style & Move/LeftLong/LeftLong2",
+			"formulas" : [
+				{
+					"output" : "LeftLong2:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#LeftLong2%20Bend?value" },
+						{ "op" : "push", "val" : 90 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2b:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2b?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#LeftLong2%20Bend?value" },
+						{ "op" : "push", "val" : 98 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2c:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2c?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#LeftLong2%20Bend?value" },
+						{ "op" : "push", "val" : 105 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2d:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2d?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#LeftLong2%20Bend?value" },
+						{ "op" : "push", "val" : 99 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2e:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2e?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#LeftLong2%20Bend?value" },
+						{ "op" : "push", "val" : 99 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "LeftLong2f:/data/AprilYSH/ElliseaGenesis/ElliseaHairG8F/aprilyshElliseaHair_156889.dsf#LeftLong2f?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "aprilyshElliseaHair_156889:#LeftLong2%20Bend?value" },
+						{ "op" : "push", "val" : 99 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "LeftLong2 Bend-1",
+				"url" : "#LeftLong2%20Bend"
+			}
+		]
+	}
+}
