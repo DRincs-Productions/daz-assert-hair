@@ -1,0 +1,156 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/base/BLOW%20Dial04.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "WindField",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2019-05-10T12:34:58Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "BLOW Dial04",
+			"name" : "BLOW Dial04",
+			"parent" : "/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Haydina%20Hair%20Genesis%208%20Female_145411.dsf#Haydina%20Hair%20Genesis%208%20Female_145411",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "BLOW Dial04",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/BLOW Dials",
+			"formulas" : [
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Wild.dsf#Wild%20Blow%20v3.02?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.7247 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Right2.dsf#Blow%20Right2%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.12 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Right1.dsf#Blow%20Right1%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.12 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Left2.dsf#Blow%20Left2%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.12 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Left1.dsf#Blow%20Left1%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.12 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20FrontR1.dsf#Blow%20FrontR1%20v2.03?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : -0.31 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20FrontL1.dsf#Blow%20FrontL1%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : -0.3109244 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20BangsR.dsf#Blow%20BangsR%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.7647059 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20BangsL.dsf#Blow%20BangsL%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.4453782 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20BangsF.dsf#Blow%20BangsF%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : -0.05882353 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Back2.dsf#Blow%20Back2%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.8487395 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Back1.dsf#Blow%20Back1%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#BLOW%20Dial04?value" },
+						{ "op" : "push", "val" : 0.579832 },
+						{ "op" : "mult" }
+					]
+				}
+			],
+			"morph" : {
+				"vertex_count" : -1,
+				"deltas" : {
+					"count" : 0,
+					"values" : [
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "BLOW Dial04-1",
+				"url" : "#BLOW%20Dial04"
+			}
+		]
+	}
+}

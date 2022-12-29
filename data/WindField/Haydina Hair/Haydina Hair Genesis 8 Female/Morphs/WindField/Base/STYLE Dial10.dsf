@@ -1,0 +1,132 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/STYLE%20Dial10.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "WindField",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2019-05-11T04:02:06Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "STYLE Dial10",
+			"name" : "STYLE Dial10",
+			"parent" : "/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Haydina%20Hair%20Genesis%208%20Female_145411.dsf#Haydina%20Hair%20Genesis%208%20Female_145411",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "STYLE Dial10",
+				"label" : "STYLE Dial10",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/STYLE Dials",
+			"formulas" : [
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Volume%20Top1.dsf#Volume%20Top1%20v3.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.7364341 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Volume%20Straighter.dsf#Volume%20Straighter?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Volume%20BottomR1.dsf#Volume%20BottomR1%20v3.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Volume%20BottomL2.dsf#Volume%20BottomL2%20v3.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Blow%20Right2.dsf#Blow%20Right2%20v2.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.18 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Bangs%20Style4.dsf#Bangs%20Style4?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.6589147 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Bangs%20Style3.dsf#Bangs%20Style3%20v3.02?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.3488373 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Bangs%20Style2.dsf#Bangs%20Style2%20v3.02?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.3798449 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:/data/WindField/Haydina%20Hair/Haydina%20Hair%20Genesis%208%20Female/Morphs/WindField/Base/Bangs%20Style1.dsf#Bangs%20Style1%20v3.01?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 0.5193799 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10%20Detail?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Haydina%20Hair%20Genesis%208%20Female_145411:#STYLE%20Dial10?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "STYLE Dial10-1",
+				"url" : "#STYLE%20Dial10"
+			}
+		]
+	}
+}
