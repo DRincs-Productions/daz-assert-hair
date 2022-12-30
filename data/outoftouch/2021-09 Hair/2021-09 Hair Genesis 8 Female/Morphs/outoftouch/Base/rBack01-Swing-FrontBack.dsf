@@ -1,0 +1,60 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/rBack01-Swing-FrontBack.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-04-02T12:05:19Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "rBack01-Swing-FrontBack",
+			"name" : "rBack01-Swing-FrontBack",
+			"parent" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#2021-09-Hair_240897",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "rBack01-Swing-FrontBack",
+				"label" : "rBack01-Swing-FrontBack",
+				"value" : 0,
+				"min" : -2,
+				"max" : 2,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Movement/Right/Back",
+			"formulas" : [
+				{
+					"output" : "rBack01:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack01?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#rBack01-Swing-FrontBack?value" },
+						{ "op" : "push", "val" : -54.78261 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "rBack01-Swing-FrontBack-1",
+				"url" : "#rBack01-Swing-FrontBack"
+			}
+		]
+	}
+}

@@ -1,0 +1,6085 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Hair/OOT%202021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female.duf",
+		"type" : "wearable",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-04-02T12:05:27Z"
+	},
+	"image_library" : [
+		{
+			"id" : "12OOT2021-09Base.jpg-15",
+			"name" : "12OOT2021-09Base.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg",
+					"label" : "12OOT2021-09Base.jpg"
+				}
+			]
+		},
+		{
+			"id" : "23OOT2021-09Base.jpg-15",
+			"name" : "23OOT2021-09Base.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg",
+					"label" : "23OOT2021-09Base.jpg"
+				}
+			]
+		},
+		{
+			"id" : "12OOT2021-09BaseS.jpg-15",
+			"name" : "12OOT2021-09BaseS.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg",
+					"label" : "12OOT2021-09BaseS.jpg"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairS04.jpg-7",
+			"name" : "OOT2021-09HairS04.jpg",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS04.jpg",
+					"label" : "OOT2021-09HairS04.jpg"
+				}
+			]
+		},
+		{
+			"id" : "12OOT2021-09BaseH.jpg-23",
+			"name" : "12OOT2021-09BaseH.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg",
+					"label" : "12OOT2021-09BaseH.jpg"
+				}
+			]
+		},
+		{
+			"id" : "12OOT2021-09BaseHF.jpg-7",
+			"name" : "12OOT2021-09BaseHF.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseHF.jpg",
+					"label" : "12OOT2021-09BaseHF.jpg"
+				}
+			]
+		},
+		{
+			"id" : "23OOT2021-09BaseH.jpg-23",
+			"name" : "23OOT2021-09BaseH.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg",
+					"label" : "23OOT2021-09BaseH.jpg"
+				}
+			]
+		},
+		{
+			"id" : "23OOT2021-09BaseS.jpg-15",
+			"name" : "23OOT2021-09BaseS.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg",
+					"label" : "23OOT2021-09BaseS.jpg"
+				}
+			]
+		},
+		{
+			"id" : "01OOT2021-09HairAlpha.jpg-15",
+			"name" : "01OOT2021-09HairAlpha.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg",
+					"label" : "01OOT2021-09HairAlpha.jpg"
+				}
+			]
+		},
+		{
+			"id" : "23OOT2021-09BaseHF.jpg-7",
+			"name" : "23OOT2021-09BaseHF.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseHF.jpg",
+					"label" : "23OOT2021-09BaseHF.jpg"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairS03.png-7",
+			"name" : "OOT2021-09HairS03.png",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS03.png",
+					"label" : "OOT2021-09HairS03.png"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairS02.png-7",
+			"name" : "OOT2021-09HairS02.png",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS02.png",
+					"label" : "OOT2021-09HairS02.png"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairS10.png-7",
+			"name" : "OOT2021-09HairS10.png",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS10.png",
+					"label" : "OOT2021-09HairS10.png"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairT.png-7",
+			"name" : "OOT2021-09HairT.png",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairT.png",
+					"label" : "OOT2021-09HairT.png"
+				}
+			]
+		},
+		{
+			"id" : "12OOT2021-09BaseC.jpg-3",
+			"name" : "12OOT2021-09BaseC.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseC.jpg",
+					"label" : "12OOT2021-09BaseC.jpg"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairCap.jpg-1",
+			"name" : "OOT2021-09HairCap.jpg",
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCap.jpg",
+					"label" : "OOT2021-09HairCap.jpg"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairCapSP.jpg-1",
+			"name" : "OOT2021-09HairCapSP.jpg",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCapSP.jpg",
+					"label" : "OOT2021-09HairCapSP.jpg"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairCapB.jpg-1",
+			"name" : "OOT2021-09HairCapB.jpg",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCapB.jpg",
+					"label" : "OOT2021-09HairCapB.jpg"
+				}
+			]
+		},
+		{
+			"id" : "OOT2021-09HairCapT.jpg-1",
+			"name" : "OOT2021-09HairCapT.jpg",
+			"map_gamma" : 1,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCapT.jpg",
+					"label" : "OOT2021-09HairCapT.jpg"
+				}
+			]
+		}
+	],
+	"scene" : {
+		"nodes" : [
+			{
+				"id" : "2021-09-Hair_240897",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#2021-09-Hair_240897",
+				"name" : "2021-09-Hair_240897",
+				"label" : "2021-09 Hair Genesis 8 Female",
+				"parent" : "name://@selection:",
+				"geometries" : [
+					{
+						"id" : "2021-09-Hair",
+						"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#2021-09-Hair",
+						"name" : "2021-09-Hair",
+						"label" : "shape",
+						"type" : "subdivision_surface",
+						"current_subdivision_level" : 1,
+						"edge_interpolation_mode" : "edges_only",
+						"subd_normal_smoothing_mode" : "smooth_all_normals",
+						"extra" : [
+							{
+								"type" : "studio_geometry_channels",
+								"channels" : [
+									{
+										"channel" : {
+											"id" : "SubDRenderLevel",
+											"type" : "int",
+											"current_value" : 0
+										}
+									}
+								]
+							}
+						]
+					}
+				],
+				"conform_target" : "name://@selection:",
+				"preview" : {
+					"type" : "figure",
+					"oriented_box" : {
+						"min" : [ -21.666, 88.002, -27.036 ],
+						"max" : [ 22.465, 184.418, 18.39 ]
+					},
+					"center_point" : [ 0, 0, 0 ],
+					"end_point" : [ 0.160443, 103.876, 0 ],
+					"rotation_order" : "YXZ"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "hip",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#hip",
+				"name" : "hip",
+				"label" : "Hip",
+				"parent" : "#2021-09-Hair_240897",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 105.1781, 1.824816 ],
+					"end_point" : [ 0, 88.82034, 0.02407765 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "pelvis",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#pelvis",
+				"name" : "pelvis",
+				"label" : "Pelvis",
+				"parent" : "#hip",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 107.0423, 1.873485 ],
+					"end_point" : [ 0, 88.0048, 1.555934 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "abdomenLower",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#abdomenLower",
+				"name" : "abdomenLower",
+				"label" : "Abdomen Lower",
+				"parent" : "#hip",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 106.9446, 0.3423212 ],
+					"end_point" : [ 0, 115.0478, 0.4073269 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "abdomenUpper",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#abdomenUpper",
+				"name" : "abdomenUpper",
+				"label" : "Abdomen Upper",
+				"parent" : "#abdomenLower",
+				"preview" : {
+					"type" : "bone",
+					"center_point" : [ 0, 115.0947, 1.53567 ],
+					"end_point" : [ 0, 122.5955, 0.839857 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "chestLower",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#chestLower",
+				"name" : "chestLower",
+				"label" : "Chest Lower",
+				"parent" : "#abdomenUpper",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -2.072, 0, -2.072 ],
+						"max" : [ 2.073, 20.731, 2.073 ]
+					},
+					"center_point" : [ 0, 123, 1.138297 ],
+					"end_point" : [ 0, 143.7313, 1.202407 ],
+					"rotation_order" : "YZX"
+				},
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 0.1771825
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "chestUpper",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#chestUpper",
+				"name" : "chestUpper",
+				"label" : "Chest Upper",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -1.343, 0, -1.343 ],
+						"max" : [ 1.344, 13.44, 1.344 ]
+					},
+					"center_point" : [ 0, 136.0765, -2.479732 ],
+					"end_point" : [ 0, 149.5166, -2.438965 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "neckLower",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#neckLower",
+				"name" : "neckLower",
+				"label" : "Neck Lower",
+				"parent" : "#chestUpper",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -0.351, 0, -0.351 ],
+						"max" : [ 0.352, 3.519, 0.352 ]
+					},
+					"center_point" : [ 0, 154.3325, -3.979178 ],
+					"end_point" : [ 0, 157.6918, -2.932664 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "neckUpper",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#neckUpper",
+				"name" : "neckUpper",
+				"label" : "Neck Upper",
+				"parent" : "#neckLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.38, -0.294, -6.082 ],
+						"max" : [ 6.375, 5.722, -0.384 ]
+					},
+					"center_point" : [ 0, 157.6141, -2 ],
+					"end_point" : [ 0, 162.5896, -1.525533 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "head",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#head",
+				"name" : "head",
+				"label" : "Head",
+				"parent" : "#neckUpper",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -7.879, -1.776, -9.489 ],
+						"max" : [ 8.494, 17.441, 12.687 ]
+					},
+					"center_point" : [ 0, 162.5502, -1.840575 ],
+					"end_point" : [ 0, 165.8927, -1.77677 ],
+					"rotation_order" : "YZX"
+				},
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide01",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide01",
+				"name" : "rSide01",
+				"label" : "rSide01",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.524, -41.94, -5.64 ],
+						"max" : [ 11.881, 6.919, 9.694 ]
+					},
+					"center_point" : [ -7.140861, 175.7978, 6.483681 ],
+					"end_point" : [ -17.91952, 143.9628, -14.2951 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.140861
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 175.7978
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : 6.483681
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -17.91952
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 143.9628
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -14.2951
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 31.83788
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 4.556334
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -15.88105
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide02",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide02",
+				"name" : "rSide02",
+				"label" : "rSide02",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -8.475, -43.388, -5.08 ],
+						"max" : [ 13.816, 7.33, 8.712 ]
+					},
+					"center_point" : [ -7.509026, 177.8838, 4.665537 ],
+					"end_point" : [ -17.24585, 141.0865, -15.76693 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.509026
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 177.8838
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : 4.665537
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -17.24585
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 141.0865
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -15.76693
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 28.27782
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 3.300081
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -13.04746
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide03",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide03",
+				"name" : "rSide03",
+				"label" : "rSide03",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.751, -37.879, -4.639 ],
+						"max" : [ 13.635, 5.476, 9.065 ]
+					},
+					"center_point" : [ -7.13235, 180.2345, 3.713176 ],
+					"end_point" : [ -16.50482, 150.2484, -11.35144 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.13235
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 180.2345
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : 3.713176
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -16.50482
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 150.2484
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -11.35144
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 25.67201
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 3.583892
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -15.63616
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide04",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide04",
+				"name" : "rSide04",
+				"label" : "rSide04",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.524, -39.01, -4.56 ],
+						"max" : [ 13.499, 6.731, 8.124 ]
+					},
+					"center_point" : [ -7.980313, 178.9426, -0.7888933 ],
+					"end_point" : [ -15.35959, 142.9054, -16.63271 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.980313
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 178.9426
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -0.7888933
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -15.35959
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 142.9054
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -16.63271
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 23.32044
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 2.198653
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -10.6249
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide05",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide05",
+				"name" : "rSide05",
+				"label" : "rSide05",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -7.567, -38.834, -11.486 ],
+						"max" : [ 6.5, 6.942, 8.335 ]
+					},
+					"center_point" : [ -10.10499, 173.2046, -2.718988 ],
+					"end_point" : [ -12.86702, 138.1897, 8.128668 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -10.10499
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 173.2046
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -2.718988
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -12.86702
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 138.1897
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 8.128668
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -17.16401
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -0.6506341
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -4.309289
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide06",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide06",
+				"name" : "rSide06",
+				"label" : "rSide06",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -5.786, -38.1, -7.32 ],
+						"max" : [ 6.187, 4.821, 6.385 ]
+					},
+					"center_point" : [ -9.094492, 170.4758, -4.684915 ],
+					"end_point" : [ -9.498692, 140.3455, 8.821294 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -9.094492
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 170.4758
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -4.684915
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -9.498692
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 140.3455
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 8.821294
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -24.14291
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -0.1499925
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -0.7013487
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide07",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide07",
+				"name" : "rSide07",
+				"label" : "rSide07",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -4.58, -35.442, -9.123 ],
+						"max" : [ 7.802, 4.807, 8.674 ]
+					},
+					"center_point" : [ -6.849757, 175.3261, -8.580937 ],
+					"end_point" : [ -13.94489, 144.118, 1.202407 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -6.849757
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 175.3261
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -8.580937
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -13.94489
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 144.118
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -17.00669
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -1.837814
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -12.24641
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rSide08",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rSide08",
+				"name" : "rSide08",
+				"label" : "rSide08",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.861, -38.692, -7.825 ],
+						"max" : [ 5.571, 6.239, 8.235 ]
+					},
+					"center_point" : [ -7.34296, 167.3934, -8.488317 ],
+					"end_point" : [ -12.39546, 138.9994, 9.773654 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.34296
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 167.3934
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -8.488317
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -12.39546
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 138.9994
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 9.773654
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -32.37657
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -2.477512
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -8.51976
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBangs01",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBangs01",
+				"name" : "rBangs01",
+				"label" : "rBangs01",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -3.166, -38.344, -9.693 ],
+						"max" : [ 6.486, 5.581, 4.824 ]
+					},
+					"center_point" : [ -6.544011, 172.8699, 8.042089 ],
+					"end_point" : [ -15.89852, 150.4569, -1.827832 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -6.544011
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 172.8699
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : 8.042089
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -15.89852
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 150.4569
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -1.827832
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 22.17769
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 4.15321
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -20.96318
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBangs02",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBangs02",
+				"name" : "rBangs02",
+				"label" : "rBangs02",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -3.098, -32.684, -9.059 ],
+						"max" : [ 5.468, 4.783, 5.068 ]
+					},
+					"center_point" : [ -4.209334, 173.8248, 8.958744 ],
+					"end_point" : [ -16.63955, 149.7768, 0.5963584 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -4.209334
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 173.8248
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : 8.958744
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -16.63955
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 149.7768
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 0.5963584
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 17.21005
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 4.016303
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -26.09127
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lSide01",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide01",
+				"name" : "lSide01",
+				"label" : "lSide01",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -4.909, -32.969, -10.715 ],
+						"max" : [ 7.613, 9.01, 8.614 ]
+					},
+					"center_point" : [ 9.094492, 172.0253, -6.589638 ],
+					"end_point" : [ 14.95539, 143.3096, 3.107129 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 9.094492
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 172.0253
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -6.589638
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 14.95539
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 143.3096
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 3.107129
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -18.31642
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 1.77052
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 10.94969
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lSide02",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide02",
+				"name" : "lSide02",
+				"label" : "lSide02",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -9.292, -36.668, -18.267 ],
+						"max" : [ 5.551, 8.32, 8.417 ]
+					},
+					"center_point" : [ 9.768158, 171.0053, -0.9028394 ],
+					"end_point" : [ 15.22485, 139.0655, 10.3797 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 9.768158
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 171.0053
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -0.9028394
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 15.22485
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 139.0655
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 10.3797
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -19.20541
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 1.552011
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 9.154446
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lSide03",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide03",
+				"name" : "lSide03",
+				"label" : "lSide03",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.894, -36.365, -8.973 ],
+						"max" : [ 4.653, 5.284, 7.559 ]
+					},
+					"center_point" : [ 8.286092, 170.0043, -6.329903 ],
+					"end_point" : [ 8.488193, 141.2212, 9.687076 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 8.286092
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 170.0043
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -6.329903
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 8.488193
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 141.2212
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 9.687076
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -29.09418
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 0.09122185
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 0.3515355
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lSide04",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04",
+				"name" : "lSide04",
+				"label" : "lSide04",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -5.019, -36.689, -6.776 ],
+						"max" : [ 5.674, 4.409, 6.014 ]
+					},
+					"center_point" : [ 8.892392, 169.9897, -3.732554 ],
+					"end_point" : [ 3.637796, 141.1539, 10.46628 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 8.892392
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 169.9897
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -3.732554
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 3.637796
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 141.1539
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : 10.46628
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -25.86608
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -2.138034
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -9.291138
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lSide05",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide05",
+				"name" : "lSide05",
+				"label" : "lSide05",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.58, -32.988, -4.665 ],
+						"max" : [ 4.974, 7.473, 4.091 ]
+					},
+					"center_point" : [ 10.30709, 171.0821, -1.654675 ],
+					"end_point" : [ 9.027125, 141.1539, -16.54614 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 10.30709
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 171.0821
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -1.654675
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 9.027125
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 141.1539
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -16.54614
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 26.43392
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 0.5150748
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -2.19286
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lSide06",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide06",
+				"name" : "lSide06",
+				"label" : "lSide06",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -4.802, -33.781, -10.991 ],
+						"max" : [ 5.22, 8.077, 8.215 ]
+					},
+					"center_point" : [ 5.395711, 173.1425, -9.360142 ],
+					"end_point" : [ 14.88802, 143.9833, 1.202407 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 5.395711
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 173.1425
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -9.360142
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 14.88802
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 143.9833
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : -19.03095
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 2.876885
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 17.04
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBack01",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack01",
+				"name" : "rBack01",
+				"label" : "rBack01",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -6.468, -42.598, -5.384 ],
+						"max" : [ 12.341, 5.594, 7.177 ]
+					},
+					"center_point" : [ -7.164649, 177.3917, 1.202407 ],
+					"end_point" : [ -12.73229, 138.9308, -14.72799 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.164649
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 177.3917
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -12.73229
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 138.9308
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -14.72799
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 22.298
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 1.503947
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -7.620317
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBack02",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack02",
+				"name" : "rBack02",
+				"label" : "rBack02",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -7.188, -42.223, -4.996 ],
+						"max" : [ 12.81, 6.22, 5.019 ]
+					},
+					"center_point" : [ -8.31835, 177.9131, -1.827832 ],
+					"end_point" : [ -11.72179, 139.2676, -15.5072 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -8.31835
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 177.9131
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -1.827832
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -11.72179
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 139.2676
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -15.5072
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 19.42495
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 0.8128185
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -4.746321
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBack03",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack03",
+				"name" : "rBack03",
+				"label" : "rBack03",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -5.541, -41.112, -3.706 ],
+						"max" : [ 11.418, 6.04, 4.16 ]
+					},
+					"center_point" : [ -7.595621, 178.3469, -4.94465 ],
+					"end_point" : [ -11.11549, 139.335, -14.90115 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.595621
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 178.3469
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -4.94465
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -11.11549
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 139.335
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -14.90115
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 14.26253
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 0.6255154
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -4.996575
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBack04",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack04",
+				"name" : "rBack04",
+				"label" : "rBack04",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -4.753, -37.41, -1.378 ],
+						"max" : [ 10.353, 4.915, 5.217 ]
+					},
+					"center_point" : [ -7.344833, 176.6123, -9.793033 ],
+					"end_point" : [ -3.705163, 140.817, -15.76693 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.344833
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 176.6123
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -9.793033
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -3.705163
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 140.817
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -15.76693
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 9.427405
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -0.4726492
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 5.727414
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBack05",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack05",
+				"name" : "rBack05",
+				"label" : "rBack05",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -8.36, -39.522, -7.029 ],
+						"max" : [ 10.12, 11.618, 7.117 ]
+					},
+					"center_point" : [ -7.275594, 169.4653, -9.360141 ],
+					"end_point" : [ -7.881893, 134.0804, -15.68035 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -7.275594
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 169.4653
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -9.360141
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -7.881893
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 134.0804
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -15.68035
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 10.12553
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 0.08561282
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -0.9663423
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "rBack06",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#rBack06",
+				"name" : "rBack06",
+				"label" : "rBack06",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -8.173, -40.38, -8.193 ],
+						"max" : [ 7.611, 10.063, 8.44 ]
+					},
+					"center_point" : [ -2.155731, 170.9474, -11.87091 ],
+					"end_point" : [ -6.332461, 134.2825, -17.32534 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : -2.155731
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 170.9474
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -11.87091
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : -6.332461
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 134.2825
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -17.32534
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 8.40819
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : 0.4730701
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : -6.428975
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lBack01",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lBack01",
+				"name" : "lBack01",
+				"label" : "lBack01",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -11.415, -38.453, -9.133 ],
+						"max" : [ 10.29, 10.876, 6.82 ]
+					},
+					"center_point" : [ 2.020998, 170.3542, -11.09171 ],
+					"end_point" : [ 3.098864, 137.1792, -17.84481 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 2.020998
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 170.3542
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -11.09171
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 3.098864
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 137.1792
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -17.84481
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 11.50006
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -0.183637
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 1.823539
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			},
+			{
+				"id" : "lBack02",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lBack02",
+				"name" : "lBack02",
+				"label" : "lBack02",
+				"parent" : "#chestLower",
+				"preview" : {
+					"type" : "bone",
+					"oriented_box" : {
+						"min" : [ -8.4, -36.778, -8.426 ],
+						"max" : [ 8.624, 11.014, 9.272 ]
+					},
+					"center_point" : [ 6.130361, 170.2812, -9.273563 ],
+					"end_point" : [ 7.612426, 136.9098, -17.49849 ],
+					"rotation_order" : "YXZ"
+				},
+				"center_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrigin",
+						"current_value" : 6.130361
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrigin",
+						"current_value" : 170.2812
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrigin",
+						"current_value" : -9.273563
+					}
+				],
+				"end_point" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xEnd",
+						"current_value" : 7.612426
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yEnd",
+						"current_value" : 136.9098
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zEnd",
+						"current_value" : -17.49849
+					}
+				],
+				"orientation" : [
+					{
+						"id" : "x",
+						"type" : "float",
+						"name" : "xOrientation",
+						"current_value" : 13.83263
+					},
+					{
+						"id" : "y",
+						"type" : "float",
+						"name" : "yOrientation",
+						"current_value" : -0.2995588
+					},
+					{
+						"id" : "z",
+						"type" : "float",
+						"name" : "zOrientation",
+						"current_value" : 2.469148
+					}
+				],
+				"extra" : [
+					{
+						"type" : "studio_node_channels",
+						"version" : 4
+					}
+				]
+			}
+		],
+		"modifiers" : [
+			{
+				"id" : "Fix",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/Fix.dsf#Fix",
+				"parent" : "#2021-09-Hair",
+				"channel" : {
+					"id" : "value",
+					"type" : "float",
+					"name" : "Value",
+					"current_value" : 1
+				},
+				"group" : "/Hidden"
+			},
+			{
+				"id" : "SkinBinding",
+				"url" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#SkinBinding",
+				"parent" : "#2021-09-Hair",
+				"extra" : [
+					{
+						"type" : "skin_settings",
+						"auto_normalize_general" : true,
+						"auto_normalize_local" : true,
+						"auto_normalize_scale" : true,
+						"binding_mode" : "General",
+						"general_map_mode" : "DualQuat",
+						"scale_mode" : "BindingMaps"
+					}
+				]
+			}
+		],
+		"materials" : [
+			{
+				"id" : "Bangs2",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Bangs2" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg"
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS04.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.42,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 0.6,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseHF.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.47,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 0.6,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseHF.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "BackUnder",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "BackUnder" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg",
+						"image_modification" : {
+							"scale" : 1,
+							"offset" : 0,
+							"invert" : false,
+							"horizontal_tiles" : 1.25,
+							"horizontal_tiling_offset" : 0,
+							"vertical_tiles" : 1,
+							"vertical_tiling_offset" : 0
+						}
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS03.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 2,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.2,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.8,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1.2,
+									"max" : 2,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS02.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.75,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 5,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.92,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS10.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairT.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Front2",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Front2" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg"
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS04.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.42,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 0.6,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseHF.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.47,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 0.6,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseHF.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Bangs1",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Bangs1" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg",
+						"image_modification" : {
+							"scale" : 1,
+							"offset" : 0,
+							"invert" : false,
+							"horizontal_tiles" : 1.25,
+							"horizontal_tiling_offset" : 0,
+							"vertical_tiles" : 1,
+							"vertical_tiling_offset" : 0
+						}
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS03.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 2,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.2,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.8,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1.2,
+									"max" : 2,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS02.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.75,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 5,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.92,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS10.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairT.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Back",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Back" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg"
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS04.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.42,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 0.6,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseHF.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.47,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 0.6,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseHF.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Side1",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Side1" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg",
+						"image_modification" : {
+							"scale" : 1,
+							"offset" : 0,
+							"invert" : false,
+							"horizontal_tiles" : 1.25,
+							"horizontal_tiling_offset" : 0,
+							"vertical_tiles" : 1,
+							"vertical_tiling_offset" : 0
+						}
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS03.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 2,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.2,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.8,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1.2,
+									"max" : 2,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS02.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.75,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 5,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.92,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS10.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairT.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Front1",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Front1" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg",
+						"image_modification" : {
+							"scale" : 1,
+							"offset" : 0,
+							"invert" : false,
+							"horizontal_tiles" : 1.25,
+							"horizontal_tiling_offset" : 0,
+							"vertical_tiles" : 1,
+							"vertical_tiling_offset" : 0
+						}
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS03.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 2,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.2,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.8,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1.2,
+									"max" : 2,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS02.png",
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.75,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 5,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg",
+									"image_modification" : {
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 1.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.92,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS10.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairT.png"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Side2",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Hair/OOT%20Hairblending%20Hair.dsf#OOT%20Hairblending%20Hair",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Side2" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09Base.jpg"
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Base Color Effect",
+									"type" : "enum",
+									"current_value" : 1
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairS04.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.42,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Index",
+									"type" : "float",
+									"current_value" : 1.55
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0.24,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.75,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.35,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"scale" : 1,
+										"offset" : 0,
+										"invert" : false,
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 0.6,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseHF.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Roughness",
+									"type" : "float",
+									"current_value" : 0.47,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Anisotropy",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Rotations",
+									"type" : "float",
+									"current_value" : 0.25,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Bump",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null,
+									"image_modification" : {
+										"grayscale_mode" : "average",
+										"horizontal_tiles" : 0.5,
+										"horizontal_tiling_offset" : 0,
+										"vertical_tiles" : 1,
+										"vertical_tiling_offset" : 0
+									}
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Thin Walled",
+									"type" : "bool",
+									"current_value" : false
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Scattering Measurement Distance",
+									"type" : "float",
+									"current_value" : 6
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Amount",
+									"type" : "float",
+									"current_value" : 2,
+									"max" : 20
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 0.6,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseH.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseS.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09Base.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Overlay Alpha Mask",
+									"type" : "color",
+									"current_value" : [ 0, 0, 0 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Alpha/01OOT2021-09HairAlpha.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Top Coat Overlay Color",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/23OOT2021-09BaseHF.jpg"
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id" : "Cap",
+				"url" : "/data/outoftouch/OOT%20Hairblending%202/OOT%20Hairblending%202%20Cap/Cap.dsf#Cap",
+				"geometry" : "#2021-09-Hair",
+				"groups" : [ "Cap" ],
+				"diffuse" : {
+					"channel" : {
+						"id" : "diffuse",
+						"type" : "float_color",
+						"name" : "Diffuse Color",
+						"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+						"current_value" : [ 1, 1, 1 ],
+						"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseC.jpg"
+					},
+					"group" : "/Base/Diffuse/Reflection"
+				},
+				"uv_set" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/UV%20Sets/outoftouch/Base/default.dsf#default",
+				"extra" : [
+					{
+						"type" : "studio/material/daz_brick"
+					},
+					{
+						"type" : "studio_material_channels",
+						"channels" : [
+							{
+								"channel" : {
+									"id" : "Line Preview Color",
+									"type" : "color",
+									"label" : "Line Preview Color",
+									"current_value" : [ 0, 0, 0 ]
+								},
+								"group" : "/Lines"
+							},
+							{
+								"channel" : {
+									"id" : "Line Start Width",
+									"type" : "float",
+									"label" : "Line Start Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line End Width",
+									"type" : "float",
+									"label" : "Line End Width (mm)",
+									"value" : 0.1,
+									"current_value" : 0.1,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Line UV Width",
+									"type" : "float",
+									"label" : "Line UV Width",
+									"current_value" : 0,
+									"step_size" : 0.01
+								},
+								"group" : "/Lines/Generation"
+							},
+							{
+								"channel" : {
+									"id" : "Metallic Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Translucency Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "SSS Reflectance Tint",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ]
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Color",
+									"type" : "float_color",
+									"value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+									"current_value" : [ 0.7529414, 0.7529414, 0.7529414 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Diffuse Overlay Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Layered Weight",
+									"type" : "float",
+									"current_value" : 0.6,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCapSP.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09/12OOT2021-09BaseC.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Reflectivity",
+									"type" : "float",
+									"current_value" : 0.3,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Roughness",
+									"type" : "float",
+									"current_value" : 0.9,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Backscattering Anisotropy",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Weight",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Color",
+									"type" : "float_color",
+									"current_value" : [ 1, 1, 1 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Refraction Roughness",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Glossy Anisotropy Rotations",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Bump Strength",
+									"type" : "float",
+									"current_value" : 0.5,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCapB.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Normal Map",
+									"type" : "float",
+									"current_value" : 0.5,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Transmitted Color",
+									"type" : "float_color",
+									"current_value" : [ 0, 0, 0 ],
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cutout Opacity",
+									"type" : "float",
+									"current_value" : 1,
+									"max" : 2,
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCapT.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Displacement Strength",
+									"type" : "float",
+									"current_value" : 0,
+									"image" : null
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cap Color Mix",
+									"type" : "int",
+									"current_value" : 4
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cap Base Texture",
+									"type" : "color",
+									"current_value" : [ 1, 1, 1 ],
+									"image_file" : "/Runtime/Textures/outoftouch/%21hair/OOT2021/2021-09-Utility/OOT2021-09HairCap.jpg"
+								}
+							},
+							{
+								"channel" : {
+									"id" : "Cap Color Mix Weight",
+									"type" : "float",
+									"current_value" : 1,
+									"image" : null
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

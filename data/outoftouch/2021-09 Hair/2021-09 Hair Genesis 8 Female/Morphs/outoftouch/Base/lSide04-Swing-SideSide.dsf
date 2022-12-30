@@ -1,0 +1,60 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/lSide04-Swing-SideSide.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-04-02T12:05:19Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "lSide04-Swing-SideSide",
+			"name" : "lSide04-Swing-SideSide",
+			"parent" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#2021-09-Hair_240897",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "lSide04-Swing-SideSide",
+				"label" : "lSide04-Swing-SideSide",
+				"value" : 0,
+				"min" : -2,
+				"max" : 2,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Movement/Left/Side",
+			"formulas" : [
+				{
+					"output" : "lSide04:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04?rotation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#lSide04-Swing-SideSide?value" },
+						{ "op" : "push", "val" : 60 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "lSide04-Swing-SideSide-1",
+				"url" : "#lSide04-Swing-SideSide"
+			}
+		]
+	}
+}

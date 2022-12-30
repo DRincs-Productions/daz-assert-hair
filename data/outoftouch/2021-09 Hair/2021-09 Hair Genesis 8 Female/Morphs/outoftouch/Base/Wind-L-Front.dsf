@@ -1,0 +1,244 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/Morphs/outoftouch/Base/Wind-L-Front.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "outoftouch",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-04-02T12:05:19Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "Wind-L-Front",
+			"name" : "Wind-L-Front",
+			"parent" : "/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#2021-09-Hair_240897",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.1607843, 0.1607843, 0.1607843 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Wind-L-Front",
+				"label" : "Wind-L-Front",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/Wind",
+			"formulas" : [
+				{
+					"output" : "lSide01:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide01?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 3.955065 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide01:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide01?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 10.56336 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide01:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide01?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -14.59459 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide02:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide02?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 3.955065 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide02:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide02?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 10.13936 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide02:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide02?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -10.58824 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide02:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide02?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -0.1123477 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide03:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide03?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 4.293616 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide03:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide03?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 1.879616 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide03:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide03?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 10.56336 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide03:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide03?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -23.82353 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide03:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide03?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -0.1080651 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide04:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 2.075449 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide04:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 1.464526 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide04:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 10.56336 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide04:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -3.970596 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide04:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide04?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -0.1291459 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide05?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 6.026833 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide05?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 3.955065 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide05?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 10.56336 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide05:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide05?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -64.85294 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide06:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide06?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 3.955065 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide06:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide06?translation/z",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : 10.56336 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "lSide06:/data/outoftouch/2021-09%20Hair/2021-09%20Hair%20Genesis%208%20Female/2021-09-Hair_240897.dsf#lSide06?rotation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "2021-09-Hair_240897:#Wind-L-Front?value" },
+						{ "op" : "push", "val" : -14.59459 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "Wind-L-Front-1",
+				"url" : "#Wind-L-Front"
+			}
+		]
+	}
+}
